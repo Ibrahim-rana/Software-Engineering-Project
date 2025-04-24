@@ -1,0 +1,1 @@
+SELECT product_id, product_name, price, color, size, description
